@@ -1,3 +1,3 @@
-from .base import Componente, Sensor, Actuador
-from .sensores import SensorTemperatura, SensorHumedad
-from .actuadores import ActuadorVentilador, ActuadorBombaDeAgua
+from .Base import Componente, Sensor, Actuador
+from .Sensores import SensorTemperatura, SensorHumedad
+from .Actuador import ActuadorVentilador, ActuadorBombaDeAgua

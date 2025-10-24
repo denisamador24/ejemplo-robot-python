@@ -1,0 +1,36 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Archivos de caché
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.cache/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Archivos de configuración local
+.DS_Store
+.idea/
+.vscode/
+
+# Archivos de distribución
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Archivos temporales del sistema
+Thumbs.db
